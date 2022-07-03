@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAgv_dispatchSystem", "WebAgv_dispatchSystem\WebAgv_dispatchSystem.csproj", "{D88DE597-FC19-4398-A74B-2C35936AC607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D88DE597-FC19-4398-A74B-2C35936AC607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88DE597-FC19-4398-A74B-2C35936AC607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88DE597-FC19-4398-A74B-2C35936AC607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88DE597-FC19-4398-A74B-2C35936AC607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BAC5F8F-6CD6-4399-8CE8-AAB9949E2D46}
+	EndGlobalSection
+EndGlobal
